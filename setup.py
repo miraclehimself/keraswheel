@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='keras',
-    version='1.0.0',
+    name='Keras',
+    version='2.2.5',
     packages=find_packages(),
     install_requires=[],
 )
